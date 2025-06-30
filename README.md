@@ -2,7 +2,7 @@
 
 <h4> 🖥 About Me &darr; </h4>
 <p>
-I am passionate about creating impactful digital solutions and have experience in fullstack development. I build user-centric applications using mordern technologies like Python, Django, Reactm TailWind CSS, etc.  
+I am passionate about creating impactful digital solutions and have experience in full-stack development. I build user-centric applications using mordern technologies like Python, Django, Next.js TailWind CSS, etc.  
 </p>
 <br/>
 <br/>
