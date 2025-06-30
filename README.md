@@ -27,6 +27,8 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" width="50" height="50"/>  
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="Tailwind CSS" width="50" height="50"/>  
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>  
 </p>
 <!--
 **masoeuk/masoeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
