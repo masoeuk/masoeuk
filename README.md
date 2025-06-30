@@ -1,10 +1,15 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=arrow_downward" />
 ## Hi there 👋 Im Kagiso Masoeu
 
-<h3> 🖥 About Me</h3>
+<h3> 🖥 About Me <span class="material-symbols-outlined">
+arrow_downward
+</span></h3>
 <p>
 I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(Python, Django, PHP), Databases (SQL, MySQL, postgreSQL). 
 </p>
-<h3> 🚀 &nbsp;SKills and Tools </h3>
+<h3> 🚀 &nbsp;SKills and Tools <span class="material-symbols-outlined">
+arrow_downward
+</span></h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
