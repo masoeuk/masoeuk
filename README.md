@@ -4,6 +4,8 @@
 <p>
 I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(Python, Django, PHP), Databases (SQL, MySQL, postgreSQL). 
 </p>
+<br/>
+<br/>
 <h3> 🚀 &nbsp;SKills and Tools &darr; </h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/>
