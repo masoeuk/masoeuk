@@ -1,4 +1,4 @@
-## Hi there 👋 Im Kagiso Masoeu
+## Hello! 👋 I'm Kagiso Masoeu
 
 <h4> 🖥 About Me &darr; </h4>
 <p>
