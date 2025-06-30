@@ -10,27 +10,25 @@ I am passionate about creating impactful digital solutions and have experience i
 <br/>
 <h4> 🚀 &nbsp;SKills and Tools &darr;  </h4>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" title="css" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="javascript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="50" height="50"/>
-<img src="https://www.svgrepo.com/show/452091/python.svg" title="python" width="50" height="50"/>
-<img src="https://www.svgrepo.com/show/373554/django.svg" title="django" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="php" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="mysql" width="50" height="50""/>
-<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="github" width="50" height="50" />
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" title="wordpress" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="azure" width="50" height="50"/>
-
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="bootstrap" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" title="codepen" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="react.js" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="node.js" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" title="jQuery" width="50" height="50"/>  
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="50" height="50"/>  
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/html.svg" title="html" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/css3.svg" title="css" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/javascript.svg" title="javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/visualstudiocode.svg" title="vscode" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/python.svg" title="python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/django.svg" title="django" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/php.svg" title="php" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/mysql.svg" title="mysql" width="50" height="50""/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/github.svg" title="github" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/wordpress.svg" title="wordpress" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/azure.svg" title="azure" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/bootstrap.svg" title="bootstrap" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/codepen.svg" title="codepen" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/reactjs.svg" title="react.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/git.svg" title="git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/nodejs.svg" title="node.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/jquery.svg" title="jQuery" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/tailwindcss.svg" title="Tailwind CSS" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/firebase.svg" title="Firebase" width="50" height="50"/>  
 </p>
 <!--
 **masoeuk/masoeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
