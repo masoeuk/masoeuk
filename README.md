@@ -1,6 +1,6 @@
 ## Hi there 👋 Im Kagiso Masoeu
 
-<h3>About Me</h3>
+<h3> 🖥 About Me</h3>
 <p>
 I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(Python, Django, PHP), Databases (SQL, MySQL, postgreSQL). 
 </p>
