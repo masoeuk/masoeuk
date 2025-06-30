@@ -6,10 +6,10 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 </p>
 <h3> 🚀 &nbsp;SKills and Tools &darr; </h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="70" height="70"/>
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="70" height="70"/>
 <img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="70" height="70"/>  
