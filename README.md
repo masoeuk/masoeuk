@@ -19,7 +19,7 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50""/>
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="azure" width="50" height="50"/>
 
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="50" height="50"/>
