@@ -14,7 +14,7 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="70" height=70"/>
 <img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="70" height=70"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="70" height=70"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="70" height=70"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="100" height=100"/>
 
 
 
