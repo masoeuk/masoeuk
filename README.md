@@ -6,7 +6,7 @@ Full-Stack Development | UI/UX & Frontend|  Graphic Design<
 I am passionate about creating impactful digital solutions and have experience in full-stack development. I build user-centric applications using mordern technologies like Python, Django, Next.js TailWind CSS, etc.  
 </p>
 <br/>
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <br/>
 <h4> 🚀 &nbsp;SKills and Tools &darr;  </h4>
