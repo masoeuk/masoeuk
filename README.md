@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Im Kagiso Masoeu
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://cdn.pixabay.com/photo/2016/07/30/19/48/banner-1557855_1280.jpg"/>
 </p>
 
 <!--
