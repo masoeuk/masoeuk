@@ -1,7 +1,5 @@
 ## Hi there 👋 Im Kagiso Masoeu
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/07/30/19/48/banner-1557855_1280.jpg"/>
-</p>
+
 
 <!--
 **masoeuk/masoeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
