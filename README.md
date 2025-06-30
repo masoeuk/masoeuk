@@ -6,11 +6,16 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 </p>
 <h3> 🚀 &nbsp;SKills and Tools &darr; </h3>
 <p align="left">
+  <img src="https://www.svgrepo.com/show/303251/html-5.svg" alt="html" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/373554/css-3.svg" alt="css" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="80" height="80"/>
-<img src="https://www.svgrepo.com/show/373554/django.svg" alt="mysql" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="45" height="45"/>
+
 
 
 
