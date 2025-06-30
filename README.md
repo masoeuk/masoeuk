@@ -6,7 +6,7 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 </p>
 <br/>
 <br/>
-<h4> 🚀 &nbsp;SKills and Tools &darr; <hr> </h4>
+<h4> 🚀 &nbsp;SKills and Tools &darr;  </h4>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="50" height="50"/>
@@ -17,16 +17,15 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 <img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50""/>
-  
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="css" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="css" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="css" width="50" height="50"/>
 
-
-
-
-
-
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="css" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="css" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="css" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="css" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="css" width="50" height="50"/>
   
 </p>
 <!--
