@@ -2,7 +2,7 @@
 
 <h4> 🖥 About Me &darr; </h4>
 <p>
-I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(Python, Django, PHP), Databases (SQL, MySQL, postgreSQL). 
+I am passionate about creating impactful digital solutions and have experience in fullstack development. I build user-centric applications using mordern technologies like Python, Django, Reactm TailWind CSS, etc.  
 </p>
 <br/>
 <br/>
