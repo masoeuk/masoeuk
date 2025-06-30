@@ -2,9 +2,9 @@
 
 <h3>About Me</h3>
 <p>
-Innovative and goal driven with extensive experience in web development. I have proficiency in front-end (HTML,CSS, jQuery, UI/UX Design ), backend development(C#, PHP, .NET), object-oriented programming, web services (Soap/Rest API) and (SQL, MySQL) database management. I am currently on the market and looking forward to contributing my knowledge and skill set.
+I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(Python, Django, PHP), Databases (SQL, MySQL, postgreSQL). 
 </p>
-<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
+<h3> 🚀 &nbsp;SKills and Tools </h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
