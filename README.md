@@ -1,6 +1,7 @@
 ## Hello! 👋 I'm Kagiso Masoeu
 
 <h4> 🖥 About Me &darr; </h4>
+Full-Stack Developer / UI-UX & Frontend /  Graphic Design
 <p>
 I am passionate about creating impactful digital solutions and have experience in full-stack development. I build user-centric applications using mordern technologies like Python, Django, Next.js TailWind CSS, etc.  
 </p>
