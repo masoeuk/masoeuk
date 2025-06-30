@@ -1,12 +1,12 @@
 ## Hi there 👋 Im Kagiso Masoeu
 
-<h3> 🖥 About Me &darr; </h3>
+<h4> 🖥 About Me &darr; </h4>
 <p>
 I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(Python, Django, PHP), Databases (SQL, MySQL, postgreSQL). 
 </p>
 <br/>
 <br/>
-<h3> 🚀 &nbsp;SKills and Tools &darr; </h3>
+<h4> 🚀 &nbsp;SKills and Tools &darr; </h4>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="50" height="50"/>
