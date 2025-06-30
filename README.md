@@ -6,7 +6,7 @@ I have proficiency in front-end (HTML,CSS, jQuery, REACT ), backend development(
 </p>
 <h3> 🚀 &nbsp;SKills and Tools &darr; </h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
