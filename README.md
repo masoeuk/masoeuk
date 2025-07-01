@@ -30,6 +30,8 @@ I am passionate about creating impactful digital solutions and have experience i
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/jquery.svg" title="jQuery" width="50" height="50"/>  
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/tailwindcss.svg" title="Tailwind CSS" width="50" height="50"/>  
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/firebase.svg" title="Firebase" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/adobephotoshop.svg" title="adobe photoshop" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/figma.svg" title="Figma" width="50" height="50"/>  
 </p>
 <!--
 **masoeuk/masoeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
