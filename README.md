@@ -9,7 +9,7 @@ I am passionate about creating impactful digital solutions and have experience i
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
 <br/>
-<h4> 🚀 &nbsp;SKills and Tools &darr;  </h4>
+<h4> 🚀 &nbsp;Technologies and Tools &darr;  </h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/html.svg" title="html" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/css3.svg" title="css" width="50" height="50"/>
