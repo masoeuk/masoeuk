@@ -1,5 +1,5 @@
 ## <h1>Hello! 👋 I'm Kagiso Masoeu</h1>
-Full-Stack Development | UI/UX & Frontend|  Graphic Design<
+Full-Stack Development | UI/UX Design | Frontend & Backend
 
 <h4> 🖥 About Me &darr; </h4>
 <p>
