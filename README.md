@@ -6,7 +6,8 @@ Full-Stack Development | UI/UX Design | Frontend & Backend
 I am passionate about creating impactful digital solutions and have experience in full-stack development. I build user-centric applications using mordern technologies like Python, Django, Node.js TailWind CSS, Firebase & etc.  
 </p>
 <br/>
-++++++++++++++++++++++++++++++++++++++++++++++++
+
+## 
 
 <br/>
 <h4> 🚀 &nbsp;Technologies and Tools &darr;  </h4>
